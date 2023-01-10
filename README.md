@@ -24,4 +24,5 @@ Readme.md
 About the Data
 The "IPL_Ball.csv" file is for ball-by-ball data and it has information of all the 19,3468 balls bowled between the years 2008 and 2020. It has 17 columns.
 The "IPL_matches.csv" file contains match-wise data and has data of 816 IPL matches. This table has 17 columns.
+CREATE DATABASE ipl;
 
